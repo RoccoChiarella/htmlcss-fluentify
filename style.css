@@ -309,3 +309,50 @@ nav {
     color: #727272;
     line-height: 1.5;
 }
+.jumbo-mobile{
+    background-color: #001A4F;
+}
+
+.mobile-left{
+    float: left;
+    max-width: 50%;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: #fff;
+    padding-top: 60px;
+}
+
+.mobile-left h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 2.2rem;
+    margin-bottom: .5rem;
+    line-height: 1.2;
+    text-align: left;
+}
+
+.mobile-left p{
+    margin-bottom: 1rem;
+}
+
+.mobile-left a{
+    color: #64DE82;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.mobile-right{
+    float: left;
+    width: 33%;
+    margin-left: 8%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.mobile-right img{
+    width: unset;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+}
